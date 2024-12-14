@@ -3,7 +3,7 @@ import './CSS.css'
 
 const AddTransaction = () => {
     return (
-        <div>なぜ表示されないのか
+        <div>stomache
             <div className='inputForm'>これが入力欄になる</div>
             選択：<select>
             <option value="jan">1月</option>
